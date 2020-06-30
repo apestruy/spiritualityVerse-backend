@@ -25,19 +25,19 @@ CardSet.create!(theme: "default")
 			card_set_id: CardSet.first.id
         },
         {
-			imageUrl: "https://blog.spiritualify.com/wp-content/uploads/2020/05/13-Signs-You-Are-an-Indigo-Child-Destined-to-Save-the-World.jpg",
+			imageUrl: "https://theawakenedstate.net/wp-content/uploads/2015/03/binary-number-tunnel-1080p-hd-wallpaper.jpg",
 			card_set_id: CardSet.first.id
         },
         {
-			imageUrl: "https://previews.123rf.com/images/shikshik/shikshik1610/shikshik161000056/64863197-third-eye-with-floral-mandala-drawing-line-art-boho-chic-style-best-for-adult-coloring-book-and-medi.jpg",
+			imageUrl: "https://previews.123rf.com/images/shikshik/shikshik1707/shikshik170700001/81504742-third-eye-with-dots-mandala-handcrafted-line-art-boho-chic-style-best-for-and-meditation-relax-poste.jpg",
 			card_set_id: CardSet.first.id
         },
         {
-			imageUrl: "https://previews.123rf.com/images/iostephy/iostephy1511/iostephy151100012/47999827-silhouette-meditation-chakra-and-light-transparency-blending-effects-and-gradient-mesh-eps-10-.jpg",
+			imageUrl: "https://assets.website-files.com/5dd09955c5a7ed2a0e5770b7/5deb2fc9675ba882b974bbd9_violet-meditation-chakra-ograph.jpg",
 			card_set_id: CardSet.first.id
         },
         {
-			imageUrl: "http://www.globalgreenplan.net/wp-content/uploads/2018/06/Spirituality-2.jpg",
+			imageUrl: "https://i.pinimg.com/originals/91/e0/cb/91e0cb3d3a00f0a4e1955afd52c6d80b.jpg",
 			card_set_id: CardSet.first.id
         },
         {
@@ -49,7 +49,7 @@ CardSet.create!(theme: "default")
 			card_set_id: CardSet.first.id
         },
         {
-			imageUrl: "https://www.thelawofattraction.com/wp-content/uploads/vibrational-shift-energy.jpg",
+			imageUrl: "https://res.cloudinary.com/vop/image/fetch/c_fill,f_auto,g_center,w_1280/https://bi-admin.bibleinfo.com/sites/default/files/creation-2-small.jpg",
 			card_set_id: CardSet.first.id
         },
         {
