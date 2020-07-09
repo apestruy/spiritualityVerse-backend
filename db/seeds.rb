@@ -17,7 +17,7 @@ CardSet.create!(theme: "default")
 
 	cards = [
 		{
-			imageUrl: "https://annantworld.com/wp-content/uploads/2016/05/glob-de-cristal.jpg",
+			imageUrl: "https://st.depositphotos.com/1653909/4590/i/450/depositphotos_45904447-stock-photo-fortune-tellers-crystal-ball.jpg",
 			card_set_id: CardSet.first.id
         },
         {

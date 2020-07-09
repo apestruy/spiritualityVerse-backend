@@ -32,6 +32,7 @@ ActiveRecord::Schema.define(version: 2020_06_19_173642) do
   create_table "games", force: :cascade do |t|
     t.string "username"
     t.integer "score"
+    t.integer "time"
     t.bigint "card_set_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
